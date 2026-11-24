@@ -1,0 +1,1 @@
+# Digital Clock - Team 1\n\nDisplay the current time and update it automatically every second.\n\n## Preview\nOpen `index.html` in any modern web browser.\n
